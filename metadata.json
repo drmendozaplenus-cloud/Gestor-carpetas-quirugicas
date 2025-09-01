@@ -1,0 +1,5 @@
+{
+  "name": "Surgical Case Manager Pro",
+  "description": "An all-in-one application to manage the entire lifecycle of a surgical authorization request, from document collection and verification to automated follow-ups and alerts.",
+  "requestFramePermissions": []
+}
